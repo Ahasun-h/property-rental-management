@@ -1,5 +1,5 @@
 
-<p align="center"><h2>E-Sellers Online Shop Demo</h2></p>
+<p align="center"><h2>Property Rental Management</h2></p>
 
 ## How to use this project
 
